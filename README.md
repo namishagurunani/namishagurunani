@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Netflix-Website](https://main--netflix.netlify.app/)
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Node.js, Express.js, Mongodb**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@namisha.gurunani173261](https://medium.com/@namisha.gurunani173261)
 
