@@ -1,5 +1,4 @@
-![2000_600px.gif](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
+![Screenshot 2024-04-25 005047](https://github.com/namishagurunani/namishagurunani/assets/126158413/76a66fb7-0797-42ec-ba34-c6ffc30f3179)
 <h1 align="center">Hi 👋, I'm Namisha Gurunani</h1>
 <h3 align="center">Full-stack enthusiast dedicated to creating fluid web solutions with proficiency in React, JavaScript, and Java. Enjoy solving complex problems and giving back to the open-source community. Let's link up and write some code! 🌟</h3>
 
