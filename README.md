@@ -13,6 +13,7 @@
 - 🔭 I’m currently working on [Netflix-Website](https://main--netflix.netlify.app/)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+- 👨‍💻 All of my projects are available at [https://portfolio-sandy-six-55.vercel.app/](https://portfolio-sandy-six-55.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@namisha.gurunani173261](https://medium.com/@namisha.gurunani173261)
 
@@ -20,7 +21,7 @@
 
 - 📫 How to reach me **namisha.gurunani173261@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IBzxCRCEgma1SMaWD_er0YTSi0-JZirX/edit](https://docs.google.com/document/d/1IBzxCRCEgma1SMaWD_er0YTSi0-JZirX/edit)
+- 📄 Know about my experiences [https://i.postimg.cc/7h5N650S/Namisha-Gurunani-Resume.png](https://i.postimg.cc/7h5N650S/Namisha-Gurunani-Resume.png)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
