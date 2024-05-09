@@ -1,5 +1,5 @@
 ![Screenshot 2024-04-25 005047](https://github.com/namishagurunani/namishagurunani/assets/126158413/76a66fb7-0797-42ec-ba34-c6ffc30f3179)
-<h1 align="center">Hi 👋, I'm Namisha Gurunani</h1>
+<h1 align="center">Hi👋, I'm Namisha Gurunani</h1>
 <h3 align="center">Full-stack enthusiast dedicated to creating fluid web solutions with proficiency in React, JavaScript, and Java. Enjoy solving complex problems and giving back to the open-source community. Let's link up and write some code! 🌟</h3>
 
 <img align="right" alt="Geek Girl GIF" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif"/>
