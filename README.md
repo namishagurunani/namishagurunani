@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/namishagurunani" target="blank"><img src="https://img.shields.io/twitter/follow/namishagurunani?logo=twitter&style=for-the-badge" alt="namishagurunani" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix-Website](https://main--netflix.netlify.app/)
+- 🔭 I’m currently working on [Netflix-Website](https://netflix-website.netlify.app/)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://portfolio-sandy-six-55.vercel.app/)
